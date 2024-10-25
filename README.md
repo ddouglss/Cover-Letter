@@ -1,41 +1,40 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
-    
 </head>
 <body>
 
   <h1>Douglas Souza Silva</h1>
   
-  <p>Telefone: 55+ (61) 9 8170 - 9565</p>
-    <p>E-mail: <a href="mailto:ddouglss1999@gmail.com">ddouglss1999@gmail.com</a></p>
-    <hr>
+  <p>Phone: +55 (61) 9 8170 - 9565</p>
+  <p>Email: <a href="mailto:ddouglss1999@gmail.com">ddouglss1999@gmail.com</a></p>
+  <hr>
 
-  <h2>Desenvolvedor Full Stack Júnior | C# e .NET | Soluções Escaláveis, AWS Cloud e Docker</h2>
+  <h2>Junior Full Stack Developer | C# and .NET | Scalable Solutions, AWS Cloud, and Docker</h2>
     
-  <p>Senhor(a),</p>
+  <p>Dear Sir/Madam,</p>
     
-  <p>Meu nome é Douglas Souza Silva, tenho 25 anos e sou formado como Técnico em Desenvolvimento de Sistemas, atualmente graduando em Análise e Desenvolvimento de Sistemas. Sou um desenvolvedor full stack júnior especializado em criar soluções robustas e escaláveis usando C# e o ecossistema completo do .NET, incluindo as versões mais recentes do .NET.</p>
+  <p>My name is Douglas Souza Silva, I am 25 years old and I have a degree as a Technician in Systems Development, currently pursuing a degree in Systems Analysis and Development. I am a junior full stack developer specialized in creating robust and scalable solutions using C# and the complete .NET ecosystem, including the latest versions of .NET.</p>
 
-   <p>Possuo experiência em desenvolvimento de software utilizando frameworks como ASP.NET Core, Blazor, Razor, .NET Aspire e .NET MAUI, além de integrar projetos com bancos de dados como SQL Server, MySQL e PostgreSQL. O desenvolvimento full stack me permite criar soluções modernas, com ASP.NET Core servindo como a espinha dorsal para APIs de alto desempenho e aplicativos web.</p>
+  <p>I have experience in software development using frameworks such as ASP.NET Core, Blazor, Razor, .NET Aspire, and .NET MAUI, as well as integrating projects with databases such as SQL Server, MySQL, and PostgreSQL. Full stack development allows me to create modern solutions, with ASP.NET Core serving as the backbone for high-performance APIs and web applications.</p>
 
-   <p>A integração com o Blazor facilita a criação de interfaces interativas para o front-end e o back-end usando C#. Para desenvolvimento multiplataforma, utilizo .NET MAUI, permitindo a criação de aplicativos para desktops e dispositivos móveis a partir de uma única base de código.</p>
+  <p>Integration with Blazor facilitates the creation of interactive interfaces for both the front-end and back-end using C#. For cross-platform development, I use .NET MAUI, allowing the creation of applications for desktops and mobile devices from a single codebase.</p>
 
-  <p>Além disso, possuo conhecimento em AWS Cloud, Azure e Docker, sempre buscando otimizar a infraestrutura e os processos de implantação. Utilizo o Entity Framework Core (EF Core) para gerenciamento de dados relacionais e sigo as práticas de Clean Code e as melhores práticas de arquitetura.</p>
+  <p>Additionally, I have knowledge of AWS Cloud, Azure, and Docker, always seeking to optimize infrastructure and deployment processes. I use Entity Framework Core (EF Core) for relational data management and follow Clean Code practices and architectural best practices.</p>
 
-   <p>No desenvolvimento web, trabalho com Razor Pages e o padrão MVC para gerenciar páginas dinâmicas e separar a lógica de negócios da apresentação. Quando necessário, utilizo Angular para desenvolver Single Page Applications (SPAs) integradas ao back-end em ASP.NET Core.</p>
+  <p>In web development, I work with Razor Pages and the MVC pattern to manage dynamic pages and separate business logic from presentation. When necessary, I use Angular to develop Single Page Applications (SPAs) integrated with the backend in ASP.NET Core.</p>
 
-   <p>Adoto metodologias ágeis como Scrum e Kanban para garantir entregas eficientes, aprendizado contínuo e foco na criação de soluções que entreguem valor real aos clientes.</p>
+  <p>I adopt agile methodologies such as Scrum and Kanban to ensure efficient deliveries, continuous learning, and a focus on creating solutions that deliver real value to customers.</p>
 
-   <p>Agradeço pela consideração da minha candidatura e estou ansioso para discutir como posso contribuir para sua equipe.</p>
-   
+  <p>Thank you for considering my application, and I look forward to discussing how I can contribute to your team.</p>
+  
   <hr>
    
-   <p>Atenciosamente,</p>
-   <p>Douglas Souza Silva</p>
+  <p>Best regards,</p>
+  <p>Douglas Souza Silva</p>
 
 </body>
 </html>
+
