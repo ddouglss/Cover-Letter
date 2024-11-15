@@ -27,8 +27,6 @@
   <p>In web development, I work with Razor Pages and the MVC pattern to manage dynamic pages and separate business logic from presentation. When necessary, I use Angular to develop Single Page Applications (SPAs) integrated with the backend in ASP.NET Core.</p>
 
   <p>I adopt agile methodologies such as Scrum and Kanban to ensure efficient deliveries, continuous learning, and a focus on creating solutions that deliver real value to customers.</p>
-
-  <p>Thank you for considering my application, and I look forward to discussing how I can contribute to your team.</p>
   
   <hr>
    
